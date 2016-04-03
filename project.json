@@ -1,0 +1,83 @@
+{
+  "name": "Pong",
+  "assets": [
+    {
+      "id": "20",
+      "name": "Sprites",
+      "type": null,
+      "children": [
+        {
+          "id": "21",
+          "name": "Game",
+          "type": null,
+          "children": [
+            {
+              "id": "24",
+              "name": "Ball",
+              "type": "sprite"
+            },
+            {
+              "id": "25",
+              "name": "Pad",
+              "type": "sprite"
+            }
+          ]
+        },
+        {
+          "id": "22",
+          "name": "UI",
+          "type": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "17",
+      "name": "Scripts",
+      "type": null,
+      "children": [
+        {
+          "id": "18",
+          "name": "Game",
+          "type": null,
+          "children": [
+            {
+              "id": "27",
+              "name": "Ball",
+              "type": "script"
+            },
+            {
+              "id": "28",
+              "name": "Pad",
+              "type": "script"
+            }
+          ]
+        },
+        {
+          "id": "19",
+          "name": "UI",
+          "type": null,
+          "children": [
+            {
+              "id": "29",
+              "name": "Camera",
+              "type": "script"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "30",
+      "name": "Scenes",
+      "type": null,
+      "children": [
+        {
+          "id": "31",
+          "name": "MainScene",
+          "type": "scene"
+        }
+      ]
+    }
+  ]
+}
